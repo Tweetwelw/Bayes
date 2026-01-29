@@ -35,26 +35,6 @@ what model outputs actually mean in rare-event settings.
 
 ---
 
-## Why this matters in iGaming
-
-Rare-event detection is everywhere in iGaming:
-
-- fraud and chargeback prevention  
-- bonus abuse detection  
-- AML monitoring  
-- risk segmentation  
-- “suspicious behavior” rules  
-
-When true positive events are rare, even very good models and rulesets can
-produce **more false positives than true ones**.
-
-This has real business consequences:
-
-- unnecessary player friction  
-- trust erosion  
-- increased support and compliance noise  
-- hidden revenue loss from wrongly blocked users  
-
 **PPV is not a property of your model alone.  
 It is a property of your model *and* the world it operates in.**
 
